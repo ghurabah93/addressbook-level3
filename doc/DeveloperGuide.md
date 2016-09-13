@@ -77,6 +77,24 @@ Use case ends.
 > 3a1. AddressBook shows an error message <br>
   Use case resumes at step 2
 
+#### Use case: Edit tag
+
+**MSS**
+
+1. User finds a person
+2. AddressBook shows the said person
+3. User edit the tag name that associates the said person
+4. AddressBook confirms with user regarding the amended changes to the tag
+5. User confirms the amended changes to the tag
+6. AddressBook updates tag of said person according to the amended values <br>
+Use case ends.
+
+**Extensions**
+
+2a. The person entered by user is not found in AddressBook
+
+> 2a1. AddressBook shows an error message to inform the user that person is not found <br>
+
 ## Appendix C : Non Functional Requirements
 
 1. Should work on any [mainstream OS](#mainstream-os) as long as it has Java 8 or higher installed.
