@@ -46,6 +46,9 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | user | delete a person | remove entries that I no longer need
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
 `* *` | user | hide [private contact details](#private-contact-detail) by default | to minimize chance of someone else seeing them by accident
+`* *` | user | switch privacy from public to private or vice versa | to hide or show their contact details
+`* *` | user | add multiple emails, phone number or address if they have more than one | to prevent adding new entry in address book for same person
+`* *` | user | sort contact by recently searched | to facilitate easier findings of contact that is frequently used
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
 
 
